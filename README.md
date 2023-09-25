@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @trebsirk
-- 👀 I’m interested in data science, data engineering, and machine learning
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me ... here
+- 👀 I’m interested in full stack and data engineering. 
 
 <!---
 trebsirk/trebsirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
